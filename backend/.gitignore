@@ -1,0 +1,9 @@
+# Node.js dependencies
+node_modules/
+
+# Hardhat build output
+artifacts/
+cache/
+
+# Secrets - never commit
+.env
